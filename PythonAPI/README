@@ -1,0 +1,11 @@
+# pycocotools
+
+pip2 based installation
+```
+make pip2
+```
+
+pip3 based installation
+```
+make pip3
+```
